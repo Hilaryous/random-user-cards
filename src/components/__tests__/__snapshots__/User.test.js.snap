@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User shows the correct snapshot tree for the User component, selected 1`] = `
+<li
+  className="css-gxxquy"
+  onClick={[Function]}
+>
+  <img
+    alt="User Avatar"
+    src="foo.bar.com"
+  />
+  <div
+    className="css-16p1w4b"
+  >
+    <p
+      className="css-18fexks"
+    >
+      "i'm cool!"
+    </p>
+    <div>
+      <p
+        className="css-11losmg"
+      >
+        Foo Bar
+      </p>
+      <p
+        className="css-tku0cv"
+      >
+        baz@bar.com
+      </p>
+    </div>
+  </div>
+</li>
+`;
+
+exports[`User shows the correct snapshot tree for the User component, unselected 1`] = `
+<li
+  className="css-15acy4d"
+  onClick={[Function]}
+>
+  <img
+    alt="User Avatar"
+    src="foo.bar.com"
+  />
+  <div
+    className="css-16p1w4b"
+  >
+    <p
+      className="css-18fexks"
+    >
+      "i'm cool!"
+    </p>
+    <div>
+      <p
+        className="css-11losmg"
+      >
+        Foo Bar
+      </p>
+      <p
+        className="css-tku0cv"
+      >
+        baz@bar.com
+      </p>
+    </div>
+  </div>
+</li>
+`;

@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header shows the correct snapshot tree for the Header component 1`] = `
+<h1
+  className="css-1ce92xy"
+/>
+`;

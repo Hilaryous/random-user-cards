@@ -19,7 +19,39 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>Random User Cards</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet">
+    <style>
+      *, *::before, *::after {
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+      }
+      html {
+        font: normal 400 100% / 1.5 Open Sans, sans-serif;
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+      }
+      body {
+        position: relative;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+        background-color: #ffffff;
+      }
+      ::selection { color: #fff; text-shadow: none; background: #000; }
+      input::-moz-focus-inner,
+      button::-moz-focus-inner {
+        padding: 0;
+        border: 0;
+      }
+      input::-webkit-outer-spin-button,
+      input::-webkit-inner-spin-button {
+        /* display: none; <- Crashes Chrome on hover */
+        -webkit-appearance: none;
+        margin: 0;
+      }
+    </style>
   </head>
   <body>
     <noscript>

@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card shows the correct snapshot tree for the Card component 1`] = `
+<li
+  className="css-ouze9h"
+/>
+`;

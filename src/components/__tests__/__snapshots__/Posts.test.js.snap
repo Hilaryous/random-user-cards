@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Posts shows the correct snapshot tree for the Posts component, default 1`] = `
+<li
+  className="css-175b6in"
+>
+  <p
+    className="css-19nqlgd"
+  >
+    Click on a card to view five of thier posts
+  </p>
+</li>
+`;
+
+exports[`Posts shows the correct snapshot tree for the Posts component, default 2`] = `
+<li
+  className="css-175b6in"
+>
+  <p
+    className="css-19nqlgd"
+  >
+    Click on a card to view five of thier posts
+  </p>
+</li>
+`;

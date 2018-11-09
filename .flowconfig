@@ -1,0 +1,13 @@
+[ignore]
+.*/node_modules/findup
+
+[include]
+
+[libs]
+
+[lints]
+all=warn
+untyped-import=off
+
+[options]
+include_warnings=true

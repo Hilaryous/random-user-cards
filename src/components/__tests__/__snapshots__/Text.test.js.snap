@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text shows the correct snapshot tree for the Text component 1`] = `
+<p
+  className="css-tku0cv"
+/>
+`;
+
+exports[`Text shows the correct snapshot tree for the Text component, bold 1`] = `
+<p
+  className="css-11losmg"
+/>
+`;
+
+exports[`Text shows the correct snapshot tree for the Text component, center 1`] = `
+<p
+  className="css-19nqlgd"
+/>
+`;
+
+exports[`Text shows the correct snapshot tree for the Text component, italic 1`] = `
+<p
+  className="css-18fexks"
+/>
+`;
+
+exports[`Text shows the correct snapshot tree for the Text component, post 1`] = `
+<p
+  className="css-1itr8po"
+/>
+`;
